@@ -1,0 +1,22 @@
+{
+  "name": "rsa-generator",
+  "version": "1.0.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "description": ">async rsa private/public key generating on linux os (fast rsa key generator)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenxianming/rsa-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chenxianming/rsa-generator/issues"
+  },
+  "homepage": "https://github.com/chenxianming/rsa-generator#readme"
+}
