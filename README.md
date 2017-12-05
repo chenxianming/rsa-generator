@@ -10,7 +10,7 @@ Example
 	    size = 1024;
 
 	rsaGenerator.generator(size,(data) => {
-		console.log(data);
+        console.log(data);
 	});
 
 
